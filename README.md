@@ -22,13 +22,13 @@
 ---
 
 ## 文件结构
-├── app.py # 主应用入口
-├── requirements.txt # Python 依赖
-├── test_app.py # 单元测试
-├── README.md # 本说明文档
-├── AI_PROMPTS.md # AI 交互日志
-└── data/
-└── signal_samples.csv # 5G 路测数据集
+app.py # 主应用入口
+requirements.txt # Python 依赖
+test_app.py # 单元测试
+README.md # 本说明文档
+AI_PROMPTS.md # AI 交互日志
+data/
+signal_samples.csv # 5G 路测数据集
 
 使用说明
 左侧边栏可筛选频段、RSRP 信号强度范围和终端类型，地图与图表实时响应
